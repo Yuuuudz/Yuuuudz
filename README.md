@@ -6,6 +6,18 @@
 
 Desenvolvo projetos web e gosto de transformar ideias em interfaces que funcionam. Trabalho com **HTML, CSS, JavaScript e TypeScript**, além de explorar aplicações com **PHP**. Aprendo construindo, testando e melhorando meus próprios projetos.
 
+### Minhas criações
+
+Sites que criei e desenvolvi. Clique para conhecer:
+
+<p>
+  <a href="https://nextmaho.com/"><img src="https://img.shields.io/badge/NextMaho-8B5CF6?style=for-the-badge" alt="Visitar NextMaho" /></a>
+  &nbsp;
+  <a href="https://nekoscripts.com/"><img src="https://img.shields.io/badge/NekoScripts-0891B2?style=for-the-badge" alt="Visitar NekoScripts" /></a>
+  &nbsp;
+  <a href="https://yudz.com.br/"><img src="https://img.shields.io/badge/Yudz-334155?style=for-the-badge" alt="Visitar Yudz" /></a>
+</p>
+
 ### Tecnologias
 
 <p>
