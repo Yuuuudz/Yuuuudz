@@ -15,7 +15,7 @@
 <h2 align="center">Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="54" alt="Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,github&theme=dark" height="54" alt="Visual Studio Code, Visual Studio, IntelliJ IDEA, Git and GitHub" />
 </p>
 
 <br />
